@@ -1,2 +1,3 @@
-# public
-Public resources
+# Nivenly Foundation Public Resources
+
+Notes from Fosdem 2023
